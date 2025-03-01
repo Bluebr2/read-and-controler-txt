@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB103A-0F2F-4366-B28D-1665DEA3B6A8}|Leitor Txt\\Leitor Txt.csproj|C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\leitor txt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAB103A-0F2F-4366-B28D-1665DEA3B6A8}|Leitor Txt\\Leitor Txt.csproj|solutionrelative:leitor txt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB103A-0F2F-4366-B28D-1665DEA3B6A8}|Leitor Txt\\Leitor Txt.csproj|C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\leitor txt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DAB103A-0F2F-4366-B28D-1665DEA3B6A8}|Leitor Txt\\Leitor Txt.csproj|solutionrelative:leitor txt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB103A-0F2F-4366-B28D-1665DEA3B6A8}|Leitor Txt\\Leitor Txt.csproj|C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\leitor txt\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAB103A-0F2F-4366-B28D-1665DEA3B6A8}|Leitor Txt\\Leitor Txt.csproj|solutionrelative:leitor txt\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB103A-0F2F-4366-B28D-1665DEA3B6A8}|Leitor Txt\\Leitor Txt.csproj|c:\\users\\iorgu\\onedrive\\\u00E1rea de trabalho\\projeto tio junior\\leitor txt\\leitor txt\\criar arquivocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAB103A-0F2F-4366-B28D-1665DEA3B6A8}|Leitor Txt\\Leitor Txt.csproj|solutionrelative:leitor txt\\criar arquivocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB103A-0F2F-4366-B28D-1665DEA3B6A8}|Leitor Txt\\Leitor Txt.csproj|C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\leitor txt\\criar arquivocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DAB103A-0F2F-4366-B28D-1665DEA3B6A8}|Leitor Txt\\Leitor Txt.csproj|solutionrelative:leitor txt\\criar arquivocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB103A-0F2F-4366-B28D-1665DEA3B6A8}|Leitor Txt\\Leitor Txt.csproj|C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\leitor txt\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DAB103A-0F2F-4366-B28D-1665DEA3B6A8}|Leitor Txt\\Leitor Txt.csproj|solutionrelative:leitor txt\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Criar Arquivocs.cs",
+              "DocumentMoniker": "C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\Leitor Txt\\Criar Arquivocs.cs",
+              "RelativeDocumentMoniker": "Leitor Txt\\Criar Arquivocs.cs",
+              "ToolTip": "C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\Leitor Txt\\Criar Arquivocs.cs",
+              "RelativeToolTip": "Leitor Txt\\Criar Arquivocs.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:07:37.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Criar Arquivocs.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\Leitor Txt\\Criar Arquivocs.cs",
+              "RelativeDocumentMoniker": "Leitor Txt\\Criar Arquivocs.cs",
+              "ToolTip": "C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\Leitor Txt\\Criar Arquivocs.cs [Projeto]",
+              "RelativeToolTip": "Leitor Txt\\Criar Arquivocs.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:07:35.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\Leitor Txt\\LoginUser.cs",
+              "RelativeDocumentMoniker": "Leitor Txt\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\Leitor Txt\\LoginUser.cs",
+              "RelativeToolTip": "Leitor Txt\\LoginUser.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwEYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:50:56.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginUser.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\Leitor Txt\\LoginUser.cs",
+              "RelativeDocumentMoniker": "Leitor Txt\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\Leitor Txt\\LoginUser.cs [Projeto]",
+              "RelativeToolTip": "Leitor Txt\\LoginUser.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:45:12.955Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\Leitor Txt\\Form1.cs",
+              "RelativeDocumentMoniker": "Leitor Txt\\Form1.cs",
+              "ToolTip": "C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\Leitor Txt\\Form1.cs",
+              "RelativeToolTip": "Leitor Txt\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwDIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:13:08.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\Leitor Txt\\Form1.cs",
+              "RelativeDocumentMoniker": "Leitor Txt\\Form1.cs",
+              "ToolTip": "C:\\Users\\iorgu\\OneDrive\\\u00C1rea de Trabalho\\Projeto Tio Junior\\Leitor Txt\\Leitor Txt\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Leitor Txt\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:06:52.113Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
