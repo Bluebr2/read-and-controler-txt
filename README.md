@@ -18,28 +18,31 @@ Este é um projeto desenvolvido em **C#** que realiza a manipulação de arquivo
 ## 📂 Estrutura do Projeto
 
 ```
-📁 Projeto
-│── 📁 src            # Código-fonte
-│── 📁 database       # Arquivo do banco SQLite
-│── 📁 data           # Arquivos TXT de exemplo
-│── 📄 README.md      # Documentação do projeto
+📁 Leitor Txt
+│── 📄 Leitor Txt.sln  # Solução do projeto
+│── 📁 Leitor Txt      # Código-fonte principal
+│── 📁 Database        # Arquivo do banco SQLite
+│── 📄 README.md       # Documentação do projeto
 ```
 
 ## 🚀 Como Executar o Projeto
 
 1. **Clone o repositório:**
+
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Bluebr2/read-and-controler-txt
    ```
 
-2. **Abra o projeto no Visual Studio ou VS Code.**
+2. **Abra o arquivo de solução `Leitor Txt.sln` no Visual Studio.**
 
 3. **Restaure os pacotes necessários:**
+
    ```sh
    dotnet restore
    ```
 
 4. **Execute o projeto:**
+
    ```sh
    dotnet run
    ```
@@ -49,7 +52,7 @@ Este é um projeto desenvolvido em **C#** que realiza a manipulação de arquivo
 O arquivo do banco de dados **SQLite** já está incluído no repositório. Caso precise recriá-lo, siga os seguintes passos:
 
 1. **Instale o SQLite Studio** (se ainda não tiver instalado).
-2. **Abra o arquivo do banco** localizado na pasta `database/`.
+2. **Abra o arquivo do banco** localizado na pasta `Database/`.
 3. **Execute os scripts SQL** para recriação das tabelas, se necessário.
 
 ## 📝 Contribuição
